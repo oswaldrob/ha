@@ -1,2 +1,4 @@
 # ha
-home automation repo
+home automation repository
+
+backup of all HomeAssisstant.io configuration
